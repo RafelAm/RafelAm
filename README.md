@@ -7,7 +7,7 @@
 ## 📈 Stats:
 ![Rafel github stats](https://github-readme-stats.vercel.app/api?username=RafelAm&show_icons=true&theme=dark)
 
-## Languages used:
+## ⌨️ Languages used:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafelAm&theme=dark)](https://github.com/RafelAm/github-readme-stats)
 
 

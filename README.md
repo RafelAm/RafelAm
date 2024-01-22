@@ -1,6 +1,6 @@
-### 👨‍💻 Hola soy Rafel Amengual Tomás
+### 👨‍💻 Rafel Amengual Tomás
 
-  Me llamo Rafel y estoy estudiando un grado superior de Desarollo de aplicaciones Web,
+  Hola! me llamo Rafel y estoy estudiando un grado superior de Desarollo de aplicaciones Web,
   y he creado esta presentación para que cada vez que mi profe abra mi GitHub ves este mensaje y
   me apruebe ;).
   

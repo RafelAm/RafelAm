@@ -9,13 +9,12 @@
 
 
 ## 📈 Stats
-![Rafel github stats](https://github-readme-stats.vercel.app/api?username=RafelAm&show_icons=true&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=RafelAm&theme=github-dark-blue&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ## ⌨️ Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafelAm&theme=dark)](https://github.com/RafelAm/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafelAm&hide_progress=true&theme=dark)](https://github.com/RafelAm/github-readme-stats)
 
 ## 💻 CodeWars
-
 ![CodeWars](https://www.codewars.com/users/RafelAm/badges/large)
 
 <!--

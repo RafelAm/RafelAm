@@ -1,8 +1,6 @@
 ### 👨‍💻 Rafel Amengual Tomás
 
-  Hola! me llamo Rafel y estoy estudiando un grado superior de Desarollo de aplicaciones Web,
-  y he creado esta presentación para que cada vez que mi profe abra mi GitHub vea este mensaje y
-  me apruebe ;).
+  Hola! me llamo Rafel y estoy estudiando un grado superior de Desarollo de aplicaciones Web.
   
 ##### 🎓 Estudiante de Desarrollo de aplicaciones Web.
 ##### 🏫 Cifp Francesc de Borja Moll, Palma de Mallorca, España.

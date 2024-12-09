@@ -13,14 +13,9 @@
 ![MDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-## 📈 Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=RafelAm&theme=github-dark-blue&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
 ## ⌨️ Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafelAm&hide_progress=true&theme=dark)](https://github.com/RafelAm/github-readme-stats)
 
-## 💻 CodeWars
-![CodeWars](https://www.codewars.com/users/RafelAm/badges/large)
 
 <!--
 **RafelAm/RafelAm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
